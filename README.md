@@ -1,5 +1,5 @@
 # hello-world
 this is features file. and i want this will be compare with master branch.
 
-Test Commit 1
+Test Commit 1 dan 3
 test Commit 2
