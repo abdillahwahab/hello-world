@@ -7,3 +7,5 @@ test perubahan
 
 ini bagaimana skrg?
 ini tambahan lagi yang kedua
+
+Oke aku tambah 1 lagi
